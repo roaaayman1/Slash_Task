@@ -1,4 +1,5 @@
 # Slash_Task
+* Task Video Link : https://drive.google.com/file/d/1jW5TB_SnWpQ0yHx81wHjoc_wYB7xSHhL/view?usp=sharing
 * To achieve this taks, you will be given a data set that consists of 700  images before data augmentation and 3341 image after it to train your model and to tune your hyperparameters. However, feel free to extend it by collecting new images or by using data augmentation techniques.
 * Setup the environment: Thie first step consists of setting the environement and downloading the data.
 * Preprocessing: The second step is a preprocessing step that consists of resizing, plitting, and piping the input data.
